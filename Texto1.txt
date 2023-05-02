@@ -1,2 +1,4 @@
 Primer archivo del repositorio
 Estas lìneas son creadas desde el local
+Lìnea creada desde Rama1
+Esta lìnea es editadas desde remoto
